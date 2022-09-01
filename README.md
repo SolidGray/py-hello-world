@@ -11,7 +11,7 @@ You can install it with
 pip install https://github.com/SolidGray/py-hello-world/archive/master.tar.gz
 ```
 
-Then run it in a console
+To run it just type in a console
 ```bash
 py-hello-world
 ```
