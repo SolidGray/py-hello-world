@@ -1,6 +1,6 @@
 # py-hello-world
 
-The most simple example project of a console Python application. 
+The most simple example project of an _installable_ console Python application. 
 
 It only prints `"hello"` text in a console.
 
